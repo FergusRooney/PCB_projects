@@ -1,0 +1,6 @@
+Info: Front (top side) placement file: 'C:\Users\fergu\projects\PCB_design\project 0 - learning\PCB_hello_world\PCB_hello_world-top-pos.csv'.
+Info: Component count: 9.
+Info: Back (bottom side) placement file: 'C:\Users\fergu\projects\PCB_design\project 0 - learning\PCB_hello_world\PCB_hello_world-bottom-pos.csv'.
+Info: Component count: 0.
+Info: Full component count: 9.
+Info: File generation successful.

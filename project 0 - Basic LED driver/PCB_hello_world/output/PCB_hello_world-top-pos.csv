@@ -1,0 +1,10 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"D1","LED","LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm",140.975000,-103.535000,180.000000,top
+"D2","LED","LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm",148.595000,-103.535000,180.000000,top
+"D3","LED","LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm",156.215000,-103.535000,180.000000,top
+"J1","Conn_01x03_Pin","PinHeader_1x03_P2.54mm_Horizontal",150.480000,-121.990000,-90.000000,top
+"Q1","2N7000","TO-92_Inline",155.215000,-112.395000,-90.000000,top
+"R1","200","R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal",138.430000,-116.205000,90.000000,top
+"R2","200","R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal",142.240000,-116.205000,90.000000,top
+"R3","200","R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal",145.775000,-116.205000,90.000000,top
+"R4","470","R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal",149.860000,-116.205000,90.000000,top
